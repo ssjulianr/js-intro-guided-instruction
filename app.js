@@ -23,14 +23,14 @@ console.log("The name", firstName, "is longer than the name", secondName, "by", 
 //MEDIUM 
 const letter = prompt();
 
-// ✅ Check if a letter is uppercase
+
 if (letter.toUpperCase() === letter) {
-  // 👇️ this runs
+  
   console.log('WHY ARE YOU YELLING?!');
 } else if (letter.toLowerCase() === letter){
   console.log('why are you whispering?');
 } else {
-    console.log('Thank you for speaking normally!');
+    console.log('Thank you for speaking normally');
 }
 
 
