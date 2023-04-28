@@ -90,8 +90,3 @@ if(operator === "+"){
     answer = divide(num3/num4);
 }
 console.log(answer);
-
-
-
-
-
