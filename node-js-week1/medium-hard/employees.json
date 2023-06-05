@@ -1,0 +1,65 @@
+{
+    "employees": [
+      {
+        "employeeID": 1,
+        "name": "Alice Johnson",
+        "salary": 72000,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 2,
+        "name": "Bob Smith",
+        "salary": 55000,
+        "department": "Finance"
+      },
+      {
+        "employeeID": 3,
+        "name": "Charlie Davis",
+        "salary": 60000,
+        "department": "Sales"
+      },
+      {
+        "employeeID": 4,
+        "name": "Diana Wilson",
+        "salary": 80000,
+        "department": "Human Resources"
+      },
+      {
+        "employeeID": 5,
+        "name": "Eric Brown",
+        "salary": 70000,
+        "department": "Engineering"
+      },
+      {
+        "employeeID": 6,
+        "name": "Fiona Thompson",
+        "salary": 58000,
+        "department": "Finance"
+      },
+      {
+        "employeeID": 7,
+        "name": "George Lee",
+        "salary": 45000,
+        "department": "Sales"
+      },
+      {
+        "employeeID": 8,
+        "name": "Hannah Miller",
+        "salary": 75000,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 9,
+        "name": "Isaac Brown",
+        "salary": 65000,
+        "department": "Human Resources"
+      },
+      {
+        "employeeID": 10,
+        "name": "Julia Green",
+        "salary": 50000,
+        "department": "Engineering"
+      }
+    ]
+  }
+  
